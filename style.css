@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+}
+
+.header {
+  background-color: lightgray;
+  text-align: center;
+  padding: 10px;
+}
+
+.menu {
+  background-color: #eeeeee;
+  text-align: center;
+  padding: 10px;
+}
+
+.content {
+  padding: 15px;
+}
+
+.footer {
+  background-color: rgb(207, 196, 196);
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
